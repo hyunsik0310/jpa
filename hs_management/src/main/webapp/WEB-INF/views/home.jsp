@@ -17,9 +17,12 @@
 	ID : <br>
 	<input type = "text" name = "id"><br>
 	PASSWORD:<br>
-	<input type = "password" name = "password"><br>
+	<input type = "password" name = "password"><br><br>
 	<input type = "submit" value = "LOGIN">
 </form>
+
+<a href = "movereguser">Don't you have Account?</a><br>
+<a href = "movefindpassword">Forgot your password?</a>
 
 </body>
 </html>
