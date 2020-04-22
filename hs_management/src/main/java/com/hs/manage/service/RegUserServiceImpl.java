@@ -24,7 +24,7 @@ public class RegUserServiceImpl implements RegUserService {
 		
 		//dao.inserUserInfo(userinfo);
 		
-		int result = dao.inserUserInfo(userinfo);
+		int result = dao.insertUserInfo(userinfo);
 		
 		
 		return result;

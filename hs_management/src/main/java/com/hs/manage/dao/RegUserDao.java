@@ -5,5 +5,5 @@ import com.hs.manage.entity.User_Info;
 public interface RegUserDao {
 
 	
-	public int inserUserInfo(User_Info userinfo);
+	public int insertUserInfo(User_Info userinfo);
 }

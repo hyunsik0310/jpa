@@ -15,7 +15,7 @@ public class RegUserDaoImpl implements RegUserDao {
 	Connection conn;
 	
 	@Override
-	public int inserUserInfo(User_Info userinfo) {
+	public int insertUserInfo(User_Info userinfo) {
 		
 		EntityManager em = conn.getConnection();
 		
